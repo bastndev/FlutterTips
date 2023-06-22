@@ -34,3 +34,18 @@
 
 <!-- logo IMG -->
 ## Create Project 💙
+An open source application built using the new router, server components and everything new in Next.js 13.
+
+> **Warning**
+> This app is a work in progress. I'm building this in public. You can follow the progress on Twitter
+> See the road map below.
+
+
+## Road map
+
+- [x] ~Add MDX support for basic pages~
+- [x] ~Build marketing pages~
+- [x] ~Subscriptions using Stripe~
+- [x] ~Responsive styles~
+- [x] ~Add OG image for blog using @vercel/og~
+- [x] Dark mode
