@@ -1,6 +1,6 @@
 <!-- logo IMG -->
 <p align="center">
-    <img width="340" src="github/dash.gif" alt="Vite logo">
+    <img width="340" src="@bastndev/img/dash.gif" alt="Vite logo">
   </a>
 </p>
 
@@ -134,7 +134,7 @@
   </details>
 
 
-## Setting Flutter 🌱
+## Setting Flutter ⚙️
 
 <table align="center">
 <tr>
