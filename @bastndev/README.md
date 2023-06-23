@@ -55,7 +55,7 @@
   </details>
 
 <!-- logo IMG -->
-## Flutter Setting  ⚙️
+## Flutter Setting  🌱
 
 >An open source application built using the new router, server components and everything new in Flutter.
 
