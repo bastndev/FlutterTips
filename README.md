@@ -4,48 +4,137 @@
   </a>
 </p>
 
-<!-- Creation-->
+<!-- - --- --- --- Create -- --- --- ---  -->
 ## Create / Export 💙
+**🐥 Create App Flutter**
 1. Type these command for crete flutter project in CMD 
 
-- `fvm flutter create name_app`
+- `flutter create name_app`
   <details>
 
     >- `flutter create name_app`
     >- `flutter create --platforms ios,android name_app`
+
+    > **Warning**
+    > Use FVM only you installed .
 
     >- `fvm flutter create name_app`
     >- `fvm flutter create --platforms ios,android name_app`
   </details>
 
- </details>
+<!-- - --- --- --- Export -- --- --- ---  -->
+**🐲 Export App Flutter**
 
-2. If you want to export for Android and iOS
+1. If you want to export for Android
 
-- `fvm flutter create name_app`
+- `flutter build apk`
   <details>
 
-    >- `flutter create name_app`
-    >- `flutter create --platforms ios,android name_app`
+    > **Warning**
+    > Use for KEY in Android .
 
-    >- `fvm flutter create name_app`
-    >- `fvm flutter create --platforms ios,android name_app`
+    ```
+         storePassword=<password_de_clave>
+         keyPassword=<password_de_alias>
+         keyAlias=<name_de_alias>
+         storeFile=<name_de_clave>.keystore
+    ```
+    >- `flutter build apk --release`
+    >- `flutter build apk --target-platform android-arm,android-arm64`
+  </details>
+
+
+2. If you want to export for iOS
+
+- `flutter build ios`
+  <details>
+
+    > **Warning**
+    > Use foe KEY in iOS .
+    >- `open ios/Runner.xcworkspace`
   </details>
 
 <!-- logo IMG -->
-## Create Project 💙
-An open source application built using the new router, server components and everything new in Next.js 13.
+## Flutter Setting  🌱
 
-> **Warning**
-> This app is a work in progress. I'm building this in public. You can follow the progress on Twitter
-> See the road map below.
+>An open source application built using the new router, server components and everything new in Flutter.
+
+**Artificial Intelligence 🦄** 
+<!-- -- --- -- -- -- logo IMG -- --- -- --- --->
+- [x] AI [Leonardo.AI](asdasd)
+
+  <details>
+
+    > **Warning**
+    > Use FVM only you installed .
+
+    >- `fvm flutter create name_app`
+    >- `fvm flutter create --platforms ios,android name_app`
+  </details>
+
+<!-- -- --- -- -- -- logo IMG -- --- -- --- --->
+- [x] AI [Lexica.art](asdasd)
+
+  <details>
+
+    > **Warning**
+    > Use FVM only you installed .
+
+    >- `fvm flutter create name_app`
+    >- `fvm flutter create --platforms ios,android name_app`
+  </details>
+
+<!-- -- --- -- -- -- logo IMG -- --- -- --- --->
+- [x] AI [Chat GPT](asdasd)
+
+  <details>
+
+    > **Warning**
+    > Use FVM only you installed .
+
+    >- `fvm flutter create name_app`
+    >- `fvm flutter create --platforms ios,android name_app`
+  </details>
+
+**App Settings 🦄** 
+<!-- -- --- -- -- -- logo IMG -- --- -- --- --->
+- [x] AI [Icon.kitchen](https://icon.kitchen/)
+
+  <details>
+
+    > **Warning**
+    > Use FVM only you installed .
+
+    >- `fvm flutter create name_app`
+    >- `fvm flutter create --platforms ios,android name_app`
+  </details>
+
+<!-- -- --- -- -- -- logo IMG -- --- -- --- --->
+- [x] AI [lottiefiles.com](asdasd)
+
+  <details>
+
+    > **Warning**
+    > Use FVM only you installed .
+
+    >- `fvm flutter create name_app`
+    >- `fvm flutter create --platforms ios,android name_app`
+  </details>
+
+<!-- -- --- -- -- -- logo IMG -- --- -- --- --->
+- [x] AI [Iconscout.com](asdasd)
+
+  <details>
+
+    > **Warning**
+    > Use FVM only you installed .
+
+    >- `fvm flutter create name_app`
+    >- `fvm flutter create --platforms ios,android name_app`
+  </details>
 
 
-## Road map
-
-- [x] ~Add MDX support for basic pages~
-- [x] ~Build marketing pages~
-- [x] ~Subscriptions using Stripe~
-- [x] ~Responsive styles~
-- [x] ~Add OG image for blog using @vercel/og~
-- [x] Dark mode
+## Setting Flutter 🌱
+<!-- we use your livery -->
+<!-- we use your livery -->
+<!-- we use your livery -->
