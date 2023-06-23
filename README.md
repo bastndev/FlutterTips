@@ -135,52 +135,11 @@
 
 
 ## Setting Flutter 🌱
-<!-- we use your livery -->
-<!-- we use your livery -->
-<!-- we use your livery --> 
 
-```dart
-import 'package:shared_preferences/shared_preferences.dart';
-
-class Preferences {
-  static late SharedPreferences _prefs;
-
-  static String _name = '';
-  static bool _isDarkMode = false;
-  static int _gender = 1;
-
-  static Future init() async {
-    _prefs = await SharedPreferences.getInstance();
-  }
-
-  // -- -- -- -- Name Preferences
-  static String get name {
-    return _prefs.getString('nick') ?? _name;
-  }
-  static set name(String name) {
-    _name = name;
-    _prefs.setString('name', name);
-  }
-
-  // -- -- -- -- isDarkMode
-  static bool get darkMode {
-    return _prefs.getBool('isDarkMode') ?? _isDarkMode;
-  }
-
-  static set darkMode(bool value) {
-    _isDarkMode = value;
-    _prefs.setBool('isDarkMode', value);
-  }
-
-  // -- -- -- -- Gender
-  static int get gender {
-    return _prefs.getInt('gender') ?? _gender;
-  }
-
-  static set gender(int value) {
-    _gender = value;
-    _prefs.setInt('gender', value);
-  }
-}
-
-```
+<table align="center">
+<tr>
+    <td align="center"><a href="https://github.com/bastndev"><img src="https://avatars.githubusercontent.com/u/113950039?v=4" width="100px;" alt=""/><br /><sub><b>  👽 Bastian Dev </b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance"></a></td>
+  
+  <td align="center"><a href="https://github.com/SmurfDev51"><img src="https://avatars.githubusercontent.com/u/64986030?v=4" width="100px;" alt=""/><br /><sub><b>  Gohit Mayer </b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance"></a>
+</td>
+</table> 
