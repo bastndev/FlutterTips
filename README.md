@@ -50,7 +50,7 @@
   <details>
 
     > **Warning**
-    > Use foe KEY in iOS .
+    > Use for KEY in iOS .
     >- `open ios/Runner.xcworkspace`
   </details>
 
@@ -83,3 +83,5 @@
 <br>
 
 <a href="https://futureailab.com/tools/"><img src="%40bastndev/img/AI/Future.png" width="100px;" alt=""/>
+
+# AI 
