@@ -77,4 +77,9 @@
 </tr>
 </table> 
 
+<!-- -- --- -- -- -- Artificial Intelligence -- --- -- --- --->
 >- Necessary tools for a Flutter 💙 developer.
+
+<br>
+
+<a href="https://futureailab.com/tools/"><img src="%40bastndev/img/AI/Future.png" width="100px;" alt=""/>
