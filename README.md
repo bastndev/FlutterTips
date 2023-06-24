@@ -65,16 +65,16 @@
 
   <td align="center"><a href="https://leonardo.ai/"><img src="%40bastndev/img/Developer/leonardo.jpg" width="100px;" alt=""/><br /><sub><b> Leonardo.AI </b></sub></a><br /><a href="#maintenance-tbenning" title="@bastndev"></a></td>
 
-  <td align="center"><a href="https://lexica.art/"><img src="%40bastndev/img/Developer/lexica.png" width="100px;" alt=""/><br /><sub><b> Lexica.art </b></sub></a><br /><a href="#maintenance-tbenning" title="@bastndev"></a></td>
+  <td align="center"><a href="https://app.quicktype.io/"><img src="%40bastndev/img/Developer/quicktype.png" width="100px;" alt=""/><br /><sub><b> Quicktype</b></sub></a><br /><a href="#maintenance-tbenning" title="@bastndev"></a></td>
 
   <td align="center"><a href="https://pub.dev/"><img src="%40bastndev/img/Developer/pubDev.png" width="100px;" alt=""/><br /><sub><b> Pub-dev </b></sub></a><br /><a href="#maintenance-tbenning" title="@bastndev"></a></td>
 
   <td align="center"><a href="https://gitmoji.dev/"><img src="%40bastndev/img/Developer/gitmoji.png" width="100px;" alt=""/><br /><sub><b> Gitmoji </b></sub></a><br /><a href="#maintenance-tbenning" title="@bastndev"></a></td>
 
-  <td align="center"><a href="https://lottiefiles.com/"><img src="%40bastndev/img/Developer/lottie.svg" width="100px;" alt=""/><br /><sub><b> Lottie </b></sub></a><br /><a href="#maintenance-tbenning" title="@bastndev"></a></td>
-
   <td align="center"><a href="https://iconscout.com/"><img src="%40bastndev/img/Developer/iconscout.png" width="100px;" alt=""/><br /><sub><b> Iconscout </b></sub></a><br /><a href="#maintenance-tbenning" title="@bastndev"></a></td>
 </tr>
+
+  <td align="center"><a href="https://lottiefiles.com/"><img src="%40bastndev/img/Developer/lottie.svg" width="100px;" alt=""/><br /><sub><b> Lottie </b></sub></a><br /><a href="#maintenance-tbenning" title="@bastndev"></a></td>
 </table> 
 
 <!-- -- --- -- -- -- Artificial Intelligence -- --- -- --- --->
