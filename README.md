@@ -72,9 +72,9 @@
   <td align="center"><a href="https://gitmoji.dev/"><img src="%40bastndev/img/Developer/gitmoji.png" width="100px;" alt=""/><br /><sub><b> Gitmoji </b></sub></a><br /><a href="#maintenance-tbenning" title="@bastndev"></a></td>
 
   <td align="center"><a href="https://iconscout.com/"><img src="%40bastndev/img/Developer/iconscout.png" width="100px;" alt=""/><br /><sub><b> Iconscout </b></sub></a><br /><a href="#maintenance-tbenning" title="@bastndev"></a></td>
-</tr>
 
   <td align="center"><a href="https://lottiefiles.com/"><img src="%40bastndev/img/Developer/lottie.svg" width="100px;" alt=""/><br /><sub><b> Lottie </b></sub></a><br /><a href="#maintenance-tbenning" title="@bastndev"></a></td>
+</tr>
 </table> 
 
 <!-- -- --- -- -- -- Artificial Intelligence -- --- -- --- --->
