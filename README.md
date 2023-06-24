@@ -54,92 +54,21 @@
     >- `open ios/Runner.xcworkspace`
   </details>
 
-<!-- logo IMG -->
+<!-- -- --- -- -- -- Setting-- --- -- --- --->
 ## Flutter Setting  ⚙️
 
->An open source application built using the new router, server components and everything new in Flutter.
-
-**Artificial Intelligence 🦄** 
-<!-- -- --- -- -- -- logo IMG -- --- -- --- --->
-- [x] AI [Leonardo.AI](asdasd)
-
-  <details>
-
-    > **Warning**
-    > Use FVM only you installed .
-
-    >- `fvm flutter create name_app`
-    >- `fvm flutter create --platforms ios,android name_app`
-  </details>
-
-<!-- -- --- -- -- -- logo IMG -- --- -- --- --->
-- [x] AI [Lexica.art](asdasd)
-
-  <details>
-
-    > **Warning**
-    > Use FVM only you installed .
-
-    >- `fvm flutter create name_app`
-    >- `fvm flutter create --platforms ios,android name_app`
-  </details>
-
-<!-- -- --- -- -- -- logo IMG -- --- -- --- --->
-- [x] AI [Chat GPT](asdasd)
-
-  <details>
-
-    > **Warning**
-    > Use FVM only you installed .
-
-    >- `fvm flutter create name_app`
-    >- `fvm flutter create --platforms ios,android name_app`
-  </details>
-
-**App Settings 🦄** 
-<!-- -- --- -- -- -- logo IMG -- --- -- --- --->
-- [x] AI [Icon.kitchen](https://icon.kitchen/)
-
-  <details>
-
-    > **Warning**
-    > Use FVM only you installed .
-
-    >- `fvm flutter create name_app`
-    >- `fvm flutter create --platforms ios,android name_app`
-  </details>
-
-<!-- -- --- -- -- -- logo IMG -- --- -- --- --->
-- [x] AI [lottiefiles.com](asdasd)
-
-  <details>
-
-    > **Warning**
-    > Use FVM only you installed .
-
-    >- `fvm flutter create name_app`
-    >- `fvm flutter create --platforms ios,android name_app`
-  </details>
-
-<!-- -- --- -- -- -- logo IMG -- --- -- --- --->
-- [x] AI [Iconscout.com](asdasd)
-
-  <details>
-
-    > **Warning**
-    > Use FVM only you installed .
-
-    >- `fvm flutter create name_app`
-    >- `fvm flutter create --platforms ios,android name_app`
-  </details>
-
-
-## Setting Flutter ⚙️
+>- Necessary tools for a Flutter 💙 developer.
 
 <table align="center">
 <tr>
-    <td align="center"><a href="https://github.com/bastndev"><img src="https://avatars.githubusercontent.com/u/113950039?v=4" width="100px;" alt=""/><br /><sub><b>  👽 Bastian Dev </b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance"></a></td>
-  
-  <td align="center"><a href="https://github.com/SmurfDev51"><img src="https://avatars.githubusercontent.com/u/64986030?v=4" width="100px;" alt=""/><br /><sub><b>  Gohit Mayer </b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance"></a>
-</td>
+  <td align="center"><a href="https://icon.kitchen/"><img src="%40bastndev/img/Developer/IconKitchen.png" width="100px;" alt=""/><br /><sub><b> IconKitchen </b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance"></a></td>
+
+  <td align="center"><a href="https://leonardo.ai/"><img src="%40bastndev/img/Developer/leonardo.jpg" width="100px;" alt=""/><br /><sub><b> Leonardo.AI </b></sub></a><br /><a href="#maintenance-tbenning" title="@bastndev"></a></td>
+
+  <td align="center"><a href="https://lexica.art/"><img src="%40bastndev/img/Developer/lexica.png" width="100px;" alt=""/><br /><sub><b> Lexica.art </b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance"></a></td>
+
+  <td align="center"><a href="https://pub.dev/"><img src="%40bastndev/img/Developer/pubDev.png" width="100px;" alt=""/><br /><sub><b> Pub-dev </b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance"></a></td>
+</tr>
 </table> 
+
+>- Necessary tools for a Flutter 💙 developer.
