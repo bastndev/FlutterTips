@@ -78,10 +78,26 @@
 </table> 
 
 <!-- -- --- -- -- -- Artificial Intelligence -- --- -- --- --->
->- Necessary tools for a Flutter 💙 developer.
 
-<br>
+- Future add More.
+  <details>
 
-<a href="https://futureailab.com/tools/"><img src="%40bastndev/img/AI/Future.png" width="100px;" alt=""/>
+    > **Warning**
+    > Artificial Intelligence.
+    >- [Lexica](https://lexica.art/)
+    >- [Future](https://futureailab.com/tools/)
+    >- [ChatGPT](https://chat.openai.com/)
+  </details>
 
-# AI 
+  <details>
+
+    > **Warning**
+    > Learning English.
+    >- [Free4talk](https://www.free4talk.com/)
+    >- [Youglish](https://youglish.com/)
+    >- [Busuu](https://www.busuu.com/)
+  </details>
+
+<!-- -- --- -- -- -- Artificial Intelligence -- --- -- --- --->
+## People 🤙 
+> Here you can recommend the tools for other developers, thanks. 
