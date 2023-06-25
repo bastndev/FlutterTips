@@ -100,4 +100,4 @@
 
 <!-- -- --- -- -- -- Artificial Intelligence -- --- -- --- --->
 ## People 🤙 
-> Here you can recommend the tools for other developers, thanks. 
+> Here you can recommend the tools for other developers, thanks.
