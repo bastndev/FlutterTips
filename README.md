@@ -78,7 +78,7 @@
 </table> 
 
 <!-- -- --- -- -- -- Artificial Intelligence -- --- -- --- --->
-``Artificial intelligence bank`` [Here](https://futureailab.com/)
+``Artificial intelligence bank`` [Click](https://futureailab.com/)
 - Future add More.
   <details>
 
@@ -100,6 +100,6 @@
 
 <!-- -- --- -- -- -- Artificial Intelligence -- --- -- --- --->
 ## People 🤙 
->Here you can recommend the tools for other developers, you can duplicate the using the same format this is the font [groupe](https://www.dafontfree.io/groupe-font/) Thank you. 
+>Here you can recommend the tools to other developers, using the same forma, [font](https://www.dafontfree.io/groupe-font/) Thanks. 
 
 <!-- Epale -->
