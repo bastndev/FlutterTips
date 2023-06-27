@@ -127,6 +127,6 @@ https://replicate.com/nightmareai/real-esrgan">  <img src="@bastndev/AI/q2.png" 
 <!-- Animation -->
 <a href="https://kaiber.ai/">  <img src="@bastndev/AI/q11.png" width="150px"></a>
 <!-- Others -->
-<a href="https://firefly.adobe.com/#">  <img src="@bastndev/AI/q12.png" width="150px"></a>
+<a href="https://firefly.adobe.com">  <img src="@bastndev/AI/q12.png" width="150px"></a>
 
 </div>
