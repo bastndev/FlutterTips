@@ -104,9 +104,7 @@
 
 <div>
 <!-- Audio -->
-<a href="https://podcast.adobe.com/enhance" target="_blank">
-  <img src="@bastndev/AI/q1.png" width="150px">
-</a>
+<a href="https://podcast.adobe.com/enhance ">  <img src="@bastndev/AI/q1.png" width="150px"></a>
 <!-- Image -->
 <a href="
 https://replicate.com/nightmareai/real-esrgan">  <img src="@bastndev/AI/q2.png" width="150px"></a>
