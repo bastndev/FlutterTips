@@ -103,17 +103,30 @@
 >Here you can recommend the tools to other developers, using the same forma, [font](https://www.dafontfree.io/groupe-font/) Thanks. 
 
 <div>
-<a href="#">  <img src="@bastndev/AI/q1.png" width="150px"></a>
-<a href="#">  <img src="@bastndev/AI/q2.png" width="150px"></a>
-<a href="#">  <img src="@bastndev/AI/q3.png" width="150px"></a>
-<a href="#">  <img src="@bastndev/AI/q4.png" width="150px"></a>
-<a href="#">  <img src="@bastndev/AI/q5.png" width="150px"></a>
-<a href="#">  <img src="@bastndev/AI/q6.png" width="150px"></a>
-<a href="#">  <img src="@bastndev/AI/q7.png" width="150px"></a>
-<a href="#">  <img src="@bastndev/AI/q8.png" width="150px"></a>
-<a href="#">  <img src="@bastndev/AI/q9.png" width="150px"></a>
-<a href="#">  <img src="@bastndev/AI/q10.png" width="150px"></a>
-<a href="#">  <img src="@bastndev/AI/q11.png" width="150px"></a>
-<a href="#">  <img src="@bastndev/AI/q12.png" width="150px"></a>
+<!-- Audio -->
+<a href="https://podcast.adobe.com/enhance ">  <img src="@bastndev/AI/q1.png" width="150px"></a>
+<!-- Image -->
+<a href="
+https://replicate.com/nightmareai/real-esrgan">  <img src="@bastndev/AI/q2.png" width="150px"></a>
+<!-- Voice -->
+<a href="https://beta.elevenlabs.io/">  <img src="@bastndev/AI/q3.png" width="150px"></a>
+<!-- Translate -->
+<a href="https://www.rask.ai/?via=domingo">  <img src="@bastndev/AI/q4.png" width="150px"></a>
+<!-- writer -->
+<a href="https://lex.page/">  <img src="@bastndev/AI/q5.png" width="150px"></a>
+<!-- Avatar -->
+<a href="https://www.synthesia.io/?via=oskrleon">  <img src="@bastndev/AI/q6.png" width="150px"></a>
+<!-- chatBot -->
+<a href="https://beta.character.ai/ ">  <img src="@bastndev/AI/q7.png" width="150px"></a>
+<!-- Article -->
+<a href="https://escribelo.ai/?ref=jdzypf2yi">  <img src="@bastndev/AI/q8.png" width="150px"></a>
+<!-- Notion -->
+<a href="https://www.notion.so/product/ai">  <img src="@bastndev/AI/q9.png" width="150px"></a>
+<!-- Cine -->
+<a href="https://wonderdynamics.com/">  <img src="@bastndev/AI/q10.png" width="150px"></a>
+<!-- Animation -->
+<a href="https://kaiber.ai/">  <img src="@bastndev/AI/q11.png" width="150px"></a>
+<!-- Others -->
+<a href="https://firefly.adobe.com/#">  <img src="@bastndev/AI/q12.png" width="150px"></a>
 
 </div>
