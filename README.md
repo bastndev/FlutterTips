@@ -102,4 +102,18 @@
 ## People 🤙 
 >Here you can recommend the tools to other developers, using the same forma, [font](https://www.dafontfree.io/groupe-font/) Thanks. 
 
-<!-- Epale -->
+<div>
+<a href="#">  <img src="@bastndev/AI/q1.png" width="150px"></a>
+<a href="#">  <img src="@bastndev/AI/q2.png" width="150px"></a>
+<a href="#">  <img src="@bastndev/AI/q3.png" width="150px"></a>
+<a href="#">  <img src="@bastndev/AI/q4.png" width="150px"></a>
+<a href="#">  <img src="@bastndev/AI/q5.png" width="150px"></a>
+<a href="#">  <img src="@bastndev/AI/q6.png" width="150px"></a>
+<a href="#">  <img src="@bastndev/AI/q7.png" width="150px"></a>
+<a href="#">  <img src="@bastndev/AI/q8.png" width="150px"></a>
+<a href="#">  <img src="@bastndev/AI/q9.png" width="150px"></a>
+<a href="#">  <img src="@bastndev/AI/q10.png" width="150px"></a>
+<a href="#">  <img src="@bastndev/AI/q11.png" width="150px"></a>
+<a href="#">  <img src="@bastndev/AI/q12.png" width="150px"></a>
+
+</div>
