@@ -100,7 +100,7 @@
 
 <!-- -- --- -- -- -- Artificial Intelligence -- --- -- --- --->
 ## People 🤙 
->Here you can recommend the tools to other developers, using the same forma, [font](https://www.dafontfree.io/groupe-font/) Thanks. 
+>Here you can recommend the tools to other developers, using the same forma, [font](https://www.dafontfree.io/groupe-font/) Thanks. [◾◼️⚫](https://www.fontvalley.com/)
 
 <div>
 <!-- Audio -->
