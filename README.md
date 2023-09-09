@@ -79,7 +79,8 @@
 
 <!-- -- --- -- -- -- Artificial Intelligence -- --- -- --- --->
 ``Artificial intelligence bank`` [Click](https://futureailab.com/)
-``Claymorphism & Neumorphism`` [Click](https://hype4.academy/tools)
+
+``Claymorphism & Neumorphism :)`` [Click](https://hype4.academy/tools)
 - *AI / English.*
   <details>
 
