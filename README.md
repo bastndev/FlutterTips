@@ -81,6 +81,9 @@
 ``Artificial intelligence bank`` [Click](https://futureailab.com/)
 
 ``Claymorphism & Neumorphism :)`` [Click](https://hype4.academy/tools)
+
+``fluttercomponent:)`` [Click](https://fluttercomponentlibrary.com/)
+
 - *AI / English.*
   <details>
 
