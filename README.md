@@ -136,6 +136,8 @@
 </div>
 
 ## Update Flutter 💙
+```
 ∘ Vscode (flutter upgrade)
 ∘ No shell
 ∘ fvm install 3.16.2
+```
