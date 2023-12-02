@@ -134,3 +134,8 @@
 <a href="https://firefly.adobe.com">  <img src="@bastndev/AI/q12.png" width="150px"></a>
 
 </div>
+
+## Update Flutter 💙
+∘ Vscode (flutter upgrade)
+∘ No shell
+∘ fvm install 3.16.2
