@@ -139,5 +139,8 @@
 ```
 ∘ Vscode (flutter upgrade)
 ∘ No shell
-∘ fvm install 3.16.2
+```
+```
+∘ fvm global 3.16.2
+∘ fvm current
 ```
