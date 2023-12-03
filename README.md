@@ -135,14 +135,14 @@
 
 </div>
 
-## Update Flutter 💙
+## Update Flutter 💙 VsCode
+>- all version update vscode pls
 ```
-∘ Vscode (flutter upgrade)
-∘ No shell
+flutter upgrade
 ```
+>- FVM version update vscode pls
 ```
 ∘ fvm install 3.16.2 
 ∘ fvm global 3.16.2
-
-∘ fvm current
 ```
+`` fvm current``
