@@ -136,7 +136,7 @@
 </div>
 
 ## Update Flutter 💙 VsCode
->- all version update vscode pls
+>- stable version desktop or pc vscode pls
 ```
 flutter upgrade
 ```
