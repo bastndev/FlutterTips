@@ -146,9 +146,9 @@ flutter upgrade
 ∘ fvm global 3.16.2
 ```
 `` fvm current``
->- FVM Tips
-∘ fvm releases
-∘ fvm use 3.16.2
-∘ fvm list
-∘ fvm flutter doctor
-∘ fvm flutter --version
+- FVM Tips
+>-  fvm releases
+>-  fvm use 3.16.2
+>-  fvm list
+>-  fvm flutter doctor
+>-  fvm flutter --version
