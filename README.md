@@ -178,7 +178,7 @@ lib/
 │   │   ├── domain/
 │   │   └── presentation/
 │   │
-│   ├── APp_name_here
+│   ├── app_name_here
 │   │   ├── data
 │   │   ├── domain/
 │   │   └── presentation/
