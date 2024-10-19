@@ -152,3 +152,45 @@ flutter upgrade
 >-  fvm list
 >-  fvm flutter doctor
 >-  fvm flutter --version
+
+## Clean Architecture 
+```sh
+lib/
+│
+├── config
+│   ├── routes/
+│   └── themes/
+│
+├── src
+│   ├── ai_screen
+│   │   ├── data/
+│   │   ├── domain/
+│   │   └── presentation/
+│   │
+│   ├── core
+│   │   ├── error/
+│   │   └── utils/
+│   │
+│   ├── ln10/
+│   │
+│   ├── payment
+│   │   ├── data/
+│   │   ├── domain/
+│   │   └── presentation/
+│   │
+│   ├── APp_name_here
+│   │   ├── data
+│   │   ├── domain/
+│   │   └── presentation/
+│   │
+│   ├── shared
+│   │   ├── components/
+│   │   └── widgets/
+│   │
+│   └── store_page
+│       ├── data/
+│       ├── domain/
+│       └── presentation/
+│
+└── main.dart
+```
