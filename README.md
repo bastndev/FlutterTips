@@ -153,7 +153,7 @@ flutter upgrade
 >-  fvm flutter doctor
 >-  fvm flutter --version
 
-## Clean Architecture 
+## Clean Architecture 💙
 ```sh
 lib/
 │
