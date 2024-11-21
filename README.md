@@ -171,7 +171,7 @@ lib/
 │   │   ├── error/
 │   │   └── utils/
 │   │
-│   ├── ln10/
+│   ├── l10n/
 │   │
 │   ├── payment
 │   │   ├── data/
