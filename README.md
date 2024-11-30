@@ -199,6 +199,7 @@ lib/
 
 ## Clean Architecture Minimalistic v 💙
 
+```
 lib/
 │
 ├── app_name_here/
@@ -213,8 +214,10 @@ lib/
 │   └── presentation/
 │       ├── blocs/ (or cubits)
 │       └── screens/
+```
+
 
 <p align="">
-    <img width="100%" src="@bastndev/img/flutter/files.png" alt="Vite logo">
+    <img width="100%" src="@bastndev/img/Flutter/files.png" alt="Vite logo">
   </a>
 </p>
