@@ -197,7 +197,7 @@ lib/
 
 <!-- -- --- -- -- -- Please Focus practice focus -- --- -- --- --->
 
-## Clean Architecture Minimalistic v 💙
+## Clean Architecture Minimalistic v1.0.0 💙
 
 ```
 lib/
@@ -218,6 +218,6 @@ lib/
 
 
 <p align="">
-    <img width="300" src="@bastndev/img/Flutter/files.png" alt="Vite logo">
+    <img width="400" src="@bastndev/img/Flutter/files.png" alt="Vite logo">
   </a>
 </p>
