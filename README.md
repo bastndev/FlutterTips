@@ -218,6 +218,6 @@ lib/
 
 
 <p align="">
-    <img width="100%" src="@bastndev/img/Flutter/files.png" alt="Vite logo">
+    <img width="300" src="@bastndev/img/Flutter/files.png" alt="Vite logo">
   </a>
 </p>
